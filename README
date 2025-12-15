@@ -1,130 +1,53 @@
-# Hi, I'm Java Backend Developer
+# 👋 Java Backend Developer
 
-Junior Java Backend Developer with experience in building backend applications using Spring Boot and microservice architecture.
+Junior Java Backend Developer focused on backend development with Spring Boot and microservice architecture.
 
-I have completed Java Developer training at Yandex Practicum and actively develop pet projects to deepen my backend skills.
-
----
-
-## Tech Stack
-
-**Languages**
-- Java 11+
-
-**Backend**
-- Spring Boot 3.3.2
-- Spring Core
-- Spring Data JPA / JDBC
-- REST API
-
-**Databases**
-- PostgreSQL
-- SQL (JOIN, GROUP BY, aggregations)
-
-**Architecture**
-- Controller → Service → Repository
-- DTO
-- Microservices architecture
-
-**Tools**
-- Maven
-- Git / GitHub
-- Docker / Docker Compose
-- Swagger / OpenAPI
-
-**Testing**
-- JUnit
-- Mockito
-
-**Additional**
-- Lombok
-- MapStruct
+Graduate of Yandex Practicum. Actively working on pet projects and improving backend skills.
 
 ---
 
-## Projects
+## 🛠 Tech Stack
 
-### Studio Booking Service (Pet Project)
-Backend system for automating studio and room bookings.
-
-- booking management
-- user roles (ADMIN / USER)
-- separate statistics microservice
-- analytics:
-  - peak hours
-  - room usage
-  - engineer statistics
-  - aggregated period statistics
-
-**Tech:** Java, Spring Boot, PostgreSQL, Docker, JUnit, Mockito
+- **Java:** 11+
+- **Spring:** Boot 3.3.2, Core, Data JPA / JDBC
+- **Databases:** PostgreSQL, SQL (JOIN, GROUP BY)
+- **Architecture:** REST API, DTO, Controller–Service–Repository, Microservices
+- **Tools:** Maven, Git, Docker, Docker Compose, Swagger
+- **Testing:** JUnit, Mockito
+- **Additional:** Lombok, MapStruct
 
 ---
 
-### Yandex Practicum Projects
+## 🚀 Projects
 
-- **Task Manager**
-  - statuses, deadlines, view history
-  - collections, LocalDateTime
-  - OOP principles
+- **Studio Booking Service** — backend system for room bookings with separate statistics service  
+  (peak hours, room usage, engineer and period analytics)
 
-- **REST Task Manager**
-  - REST API
-  - JSON
-  - HTTP status codes
-
-- **Filmorate**
-  - CRUD operations
-  - likes, genres, ratings
-  - SQL JOIN queries
-  - validation, DTO
-  - layered architecture
-
-- **ShareIt**
-  - microservice architecture
-  - booking flow with approval/rejection
-  - time-based restrictions
-  - comments after completed bookings
-
-- **Explore With Me**
-  - event management platform
-  - public and admin APIs
-  - event lifecycle (DRAFT → PUBLISHED → CANCELED)
-  - participant limits and moderation
-  - inter-service communication
+- **Yandex Practicum Projects:**  
+  Task Manager, Filmorate, ShareIt, Explore With Me  
+  (CRUD, REST API, SQL, microservices)
 
 ---
 
-## Background
+## 💼 Background
 
-Previously worked as a **Biotechnologist**, where I gained experience in:
+5 years as a Biotechnologist:
 - process automation
-- working with databases and SQL queries
-- log analysis and data analytics
+- SQL and data analysis
 - technical documentation
-- cross-team communication
-- mentoring and training colleagues
+- cross-team collaboration and mentoring
 
 ---
 
-## Currently Learning
+## 🌱 Currently Learning
 
-- Spring Security
-- Authentication & Authorization (JWT)
+- Spring Security & JWT
 - Kafka
 - Payment integrations
 
 ---
 
-## About Me
+## 📫 Contacts
 
-- strong self-organization and responsibility
-- systematic problem solving
-- team player with strong communication skills
-- comfortable with English in professional environment
-
----
-
-## Contacts
-
-- GitHub: https://github.com/USERNAME
-- Telegram: @Ivan_Foke
+GitHub: https://github.com/USERNAME
+Telegram: @Ivan_Foke
