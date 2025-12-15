@@ -1,1 +1,130 @@
-Hi
+# 👋 Hi, I'm Java Backend Developer
+
+Junior Java Backend Developer with experience in building backend applications using Spring Boot and microservice architecture.
+
+I have completed Java Developer training at Yandex Practicum and actively develop pet projects to deepen my backend skills.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Java 11+
+
+**Backend**
+- Spring Boot 3.3.2
+- Spring Core
+- Spring Data JPA / JDBC
+- REST API
+
+**Databases**
+- PostgreSQL
+- SQL (JOIN, GROUP BY, aggregations)
+
+**Architecture**
+- Controller → Service → Repository
+- DTO
+- Microservices architecture
+
+**Tools**
+- Maven
+- Git / GitHub
+- Docker / Docker Compose
+- Swagger / OpenAPI
+
+**Testing**
+- JUnit
+- Mockito
+
+**Additional**
+- Lombok
+- MapStruct
+
+---
+
+## 🚀 Projects
+
+### 🧩 Studio Booking Service (Pet Project)
+Backend system for automating studio and room bookings.
+
+- booking management
+- user roles (ADMIN / USER)
+- separate statistics microservice
+- analytics:
+  - peak hours
+  - room usage
+  - engineer statistics
+  - aggregated period statistics
+
+**Tech:** Java, Spring Boot, PostgreSQL, Docker, JUnit, Mockito
+
+---
+
+### 🎓 Yandex Practicum Projects
+
+- **Task Manager**
+  - statuses, deadlines, view history
+  - collections, LocalDateTime
+  - OOP principles
+
+- **REST Task Manager**
+  - REST API
+  - JSON
+  - HTTP status codes
+
+- **Filmorate**
+  - CRUD operations
+  - likes, genres, ratings
+  - SQL JOIN queries
+  - validation, DTO
+  - layered architecture
+
+- **ShareIt**
+  - microservice architecture
+  - booking flow with approval/rejection
+  - time-based restrictions
+  - comments after completed bookings
+
+- **Explore With Me**
+  - event management platform
+  - public and admin APIs
+  - event lifecycle (DRAFT → PUBLISHED → CANCELED)
+  - participant limits and moderation
+  - inter-service communication
+
+---
+
+## 💼 Background
+
+Previously worked as a **Biotechnologist**, where I gained experience in:
+- process automation
+- working with databases and SQL queries
+- log analysis and data analytics
+- technical documentation
+- cross-team communication
+- mentoring and training colleagues
+
+---
+
+## 🌱 Currently Learning
+
+- Spring Security
+- Authentication & Authorization (JWT)
+- Kafka
+- Payment integrations
+
+---
+
+## 💬 About Me
+
+- strong self-organization and responsibility
+- systematic problem solving
+- team player with strong communication skills
+- comfortable with English in professional environment
+
+---
+
+## 📫 Contacts
+
+- GitHub: https://github.com/USERNAME
+- Telegram: @Ivan_Foke
